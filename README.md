@@ -1,1 +1,1 @@
-# Latent-Diffusion-Models
+# Latent Diffusion Models 
